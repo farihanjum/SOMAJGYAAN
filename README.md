@@ -1,13 +1,3 @@
----
-language:
-- bn
-license: mit
-task_categories:
-- question-answering
-- multiple-choice
-pretty_name: SOMAJGYAAN - Bangla Cultural Knowledge Dataset
----
-
 # SOMAJGYAAN: A Dataset for Evaluating LLMs on Bangla Culture, Social Knowledge, and Low-Resource Language Adaptation
 
 [![Paper](https://img.shields.io/badge/ACL%20Anthology-IJCNLP%20AACL%20Findings%202025-EE161F)]()
