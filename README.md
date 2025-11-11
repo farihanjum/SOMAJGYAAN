@@ -1,12 +1,14 @@
 # SOMAJGYAAN: A Dataset for Evaluating LLMs on Bangla Culture, Social Knowledge, and Low-Resource Language Adaptation
 
-[![Paper](https://img.shields.io/badge/ACL%20Anthology-IJCNLP%20AACL%20Findings%202025-EE161F)]()
+[![Paper](https://img.shields.io/badge/ACL%20Anthology-IJCNLP%20AACL%20Findings%202025-EE161F?logo=ACL-Logo)]()
 [![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-SOMAJGYAAN-ffc107?color=ffc107&logoColor=white)](https://huggingface.co/datasets/farihashifa/SOMAJGYAAN)
-[![GitHub](https://img.shields.io/badge/GitHub-Code-blue?logo=github)](https://github.com/farihanjum)
+[![Kaggle](https://img.shields.io/badge/%20Dataset-SOMAJGYAAN-20BEFF?logo=kaggle)](https://www.kaggle.com/datasets/abdullaharean/bqad2025)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-fffff5?logo=github)](https://github.com/farihanjum)
 
 [Fariha Anjum Shifa*](https://github.com/farihanjum), Muhtasim Ibteda Shochcho*, Abdullah Ibne Hanif Arean*, Mohammad Ashfaq Ur Rahman, AKM Moshiur Rahman Mazumder, Ahaj Mahhin Faiak, Md Fahim, M Ashraful Amin, Amin Ahsan Ali, AKM Mahbubur Rahman
 
-*Equal Contribution
+
+Project Lead: Md Fahim
 
 ---
 
